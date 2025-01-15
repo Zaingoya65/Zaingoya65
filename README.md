@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am an aspiring tech enthusiast passionate about 
 - 🔭 **Current Learning Goals**: 
   - Backend development using **PHP**.
   - Core topics in **Applied Mathematics**, **Computer Science**, and **Artificial Intelligence**.
-- 🌍 **From**: Jaffarabad, Balochistan, Pakistan.
+- 🌍 **From**: Quetta, Balochistan, Pakistan.
 
 ---
 
@@ -46,25 +46,17 @@ Welcome to my GitHub profile! I am an aspiring tech enthusiast passionate about 
 
 ## 📂 My Projects
 Here are some repositories showcasing my skills and interests:
-- 🌐 **[Backend Starter Kit]https://github.com/Zaingoya65/notes-app**  
+- 🌐 **Backend Starter Project**  
   A beginner's project using PHP to create dynamic web applications.
   
 - 🤖 **Visit repositries**  
   https://github.com/Zaingoya65/
 
 
-
----
-
-## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaingoya65&show_icons=true&theme=radical)
-
-
-
 ---
 
 ## 🤝 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername) Zain Ul Abideen 
 - 📧 Email: [zain65.apply@gmail.com](mailto:your.email@example.com)
 
 ---
