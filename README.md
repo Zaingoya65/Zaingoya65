@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, It's Zain Ul Abideen — Full Stack Developer
 
-<!--
-**Zaingoya65/Zaingoya65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Full Stack Developer who enjoys turning ideas into scalable and user-friendly web applications. I love exploring new technologies, solving real-world problems, and contributing to the open-source community.
 
-Here are some ideas to get you started:
+- 🔭 **Currently building:** Modern web applications with clean UI & powerful backend
+- 🌱 **Currently learning:** Data Science & Artificial Intelligence to expand into intelligent systems
+- 👯 **Open to collaborate on:** Open-source projects, startups, and innovative ideas
+- 💬 **Ask me about:** Frontend & Backend development, APIs, databases, and GitHub workflows
+- 📫 **Reach me at:** goyazain65@outlook.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I enjoy learning new technologies and actively contributing to open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *Always curious. Always building. Always improving.*
+
+
